@@ -13,7 +13,11 @@
   },
   "dependencies": {
     "@nuxt/http": "^0.1.0",
+    "css-loader": "2.1.1",
+    "node-sass": "4.12.0",
+    "npx": "10.2.0",
     "nuxt": "^2.5.1",
-    "reqlim": "^0.0.0"
+    "reqlim": "^0.0.0",
+    "sass-loader": "7.1.0"
   }
 }
